@@ -766,7 +766,6 @@ tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="5"]
 tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="4"]
 tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="3"]
 tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="2"]
-v2ex.com##.sidebar_compliance
 wapbaike.baidu.com##[target="_blank"]
 wapbaike.baidu.com###relative_shop_flow
 wapbaike.baidu.com##.BK-after-content-wrapper > ul
