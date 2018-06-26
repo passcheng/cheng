@@ -180,6 +180,7 @@ crs.baidu.com
 dup.baidustatic.com
 eduad.baidu.com
 fanyi-app.baidu.com
+fanyi.baidu.com/static/translate-mobile/widget/
 hm.baidu.com
 ifeng.com##[style*="position"][style*="fixed"]
 ifeng.com##div[style="display: block;"]
