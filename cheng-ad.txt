@@ -189,6 +189,7 @@ ifeng.com*/wapifeng
 ifeng.com/client_share_bottom_
 ifeng0.com
 ifengimg.com/a/o.js
+ip.cn##[class^="footer"]
 jd.c-ptsp.com.cn
 jdgsgl.com
 m.ithome.com##.hot-app
