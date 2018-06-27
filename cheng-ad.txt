@@ -222,7 +222,9 @@ nex.163.com
 p1.ifengimg.com/a80c2beeeff78280/2017/28/luckybag
 qq.com/nodeapi/api/ads
 res.wex.qq.com/open/js
-s.ip-cdn.com/img
+s.ip-cdn.com/css/main.css
+s.ip-cdn.com/img/ds.png
+s.ip-cdn.com/img/al.jpg
 s.go.sohu.com*/?callback=
 sina.cn##[href^="http://saxs."] > .f_card
 sina.cn##article.article.article-sax
