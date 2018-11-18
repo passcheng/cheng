@@ -175,12 +175,14 @@ bdstatic.com/searchbox/icms/searchbox/img/*.jpg
 bdx.playnext.cn
 becode.qiushibaike.com 
 bingdiantao.com
+btdc8.cn
 cbjs.baidu.com
 cpu.baidu.com/js/cic.js
 crs.baidu.com
 dup.baidustatic.com
 eduad.baidu.com
 fanyi-app.baidu.com
+hjiec.com
 hm.baidu.com
 ifeng.com##[style*="position"][style*="fixed"]
 ifeng.com##div[style="display: block;"]
