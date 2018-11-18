@@ -192,6 +192,7 @@ ifengimg.com/a/o.js
 ip.cn##[class^="footer"]
 jd.c-ptsp.com.cn
 jdgsgl.com
+mbaik.com
 m.ithome.com##.hot-app
 m.ithome.com##.lapin
 m.ithome.com##.open-app
@@ -199,6 +200,7 @@ m.ithome.com##.open-app-banner
 m.ithome.com##.relevant-news
 m.people.cn##.m-page-tip
 m.people.cn##.page-tip-main
+m.wutuxs.com/wap/js/yuedu.js
 m.sohu.com##.business.plate > .f-list > .f:nth-of-type(10)
 m.sohu.com##.f:nth-of-type(21)
 m.sohu.com##.f:nth-of-type(22)
