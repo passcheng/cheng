@@ -203,7 +203,6 @@ m.ithome.com##.open-app-banner
 m.ithome.com##.relevant-news
 m.people.cn##.m-page-tip
 m.people.cn##.page-tip-main
-m.wutuxs.com/wap/js/yuedu.js
 m.sohu.com##.business.plate > .f-list > .f:nth-of-type(10)
 m.sohu.com##.f:nth-of-type(21)
 m.sohu.com##.f:nth-of-type(22)
@@ -267,6 +266,8 @@ wapbaike.baidu.com###relative_shop_flow
 wapbaike.baidu.com##.BK-after-content-wrapper > ul
 wapbaike.baidu.com##[target="_blank"]
 wbies.com
+wutuxs.com/favicon.ico
+wutuxs.com/wap/js/yuedu.js
 wk.baidu.com##.bottom-bar-global
 wk.baidu.com##a.sf-edu-wenku-id-right-fixed-ad-wrap
 zhidao.baidu.com###main-content > div[class^="cvk"]
