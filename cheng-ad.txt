@@ -269,6 +269,7 @@ wbies.com
 wutuxs.com##[class^="___*"]
 wutuxs.com##[class^="ddjxyfifb *"]
 wutuxs.com##[class^="footer"]
+wutuxs.com/com.js
 wutuxs.com/favicon.ico
 wutuxs.com/wap/js/yuedu.js
 wk.baidu.com##.bottom-bar-global
