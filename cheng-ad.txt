@@ -270,7 +270,11 @@ wutuxs.com##[class^="___*"]
 wutuxs.com##[class^="footer"]
 wutuxs.com##.dkeouxifb.dkeouxifa
 wutuxs.com/favicon.ico
-wutuxs.com/wap/js/
+wutuxs.com/wap/js/ajax.js
+wutuxs.com/wap/js/yuedu.js
+js.users
+m.vgaom.com
+api.share.baidu.com
 wk.baidu.com##.bottom-bar-global
 wk.baidu.com##a.sf-edu-wenku-id-right-fixed-ad-wrap
 zhidao.baidu.com###main-content > div[class^="cvk"]
