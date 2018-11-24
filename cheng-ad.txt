@@ -89,7 +89,6 @@
 ##img[src^="http://t.cn"]
 ##img[src^="https://www2.autoimg.cn"]
 !--------------------------------------------!
-##a[href^="https://www.linode.com/?r=a5b81d0d3c02aec2fdaecf3c5def23402b542d91"]
 ##a[href^="https://bbs.feng.com/openordownload/open.html"]
 ##a[href$="/Index.html"]
 ##a[href$="/myavshi.html"]
