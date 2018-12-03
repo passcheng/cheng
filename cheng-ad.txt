@@ -265,7 +265,6 @@ wapbaike.baidu.com###relative_shop_flow
 wapbaike.baidu.com##.BK-after-content-wrapper > ul
 wapbaike.baidu.com##[target="_blank"]
 wbies.com
-wutuxs.com##[class^="___*"]
 wutuxs.com##[class^="footer"]
 wutuxs.com##.dkeouxifb.dkeouxifa
 wutuxs.com/favicon.ico
