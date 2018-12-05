@@ -113,6 +113,7 @@
 360doc.cn##.youlike
 alicdn.com/g/mm/afp-cdn/js/
 b5qpg.cn
+api.share.baidu.com
 baidu-union-js.chuimg.com
 baidu.com###afd_content
 baidu.com###gh-safariicon-container
@@ -264,16 +265,6 @@ tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="9"]
 wapbaike.baidu.com###relative_shop_flow
 wapbaike.baidu.com##.BK-after-content-wrapper > ul
 wapbaike.baidu.com##[target="_blank"]
-wbies.com
-wutuxs.com##[class^="footer"]
-wutuxs.com##.dkeouxifb.dkeouxifa
-wutuxs.com/favicon.ico
-wutuxs.com/wap/js/ajax.js
-wutuxs.com/wap/js/yuedu.js
-js.users.51.la
-pcaoo.com
-vgaom.com
-api.share.baidu.com
 wk.baidu.com##.bottom-bar-global
 wk.baidu.com##a.sf-edu-wenku-id-right-fixed-ad-wrap
 zhidao.baidu.com###main-content > div[class^="cvk"]
@@ -289,5 +280,16 @@ zhihu.com##.Lottie.Kok.Kok-mobile
 zhihu.com##.RelatedReadings-adItem
 zhihu.com##button.OpenInAppButton
 zhihu.com##div[data-za-detail-view-path-is_ad]
+!--------------------------------------------!
+wbies.com
+wutuxs.com/com.js
+wutuxs.com/favicon.ico
+wutuxs.com/wap/js/*.js
+wutuxs.com##[class^="footer"]
+wutuxs.com##.dkeouxifb.dkeouxifa
+wutuxs.com##.dddkosifb.dddkosifa
+js.users.51.la
+pcaoo.com
+vgaom.com
 !--------------------------------------------!
 @@||apps.bdimg.com$script
