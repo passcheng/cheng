@@ -180,6 +180,7 @@ btdc8.cn
 cbjs.baidu.com
 cpu.baidu.com/js/cic.js
 crs.baidu.com
+zhanzahng.baidu.com
 dup.baidustatic.com
 eduad.baidu.com
 fanyi-app.baidu.com
