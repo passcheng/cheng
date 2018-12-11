@@ -112,8 +112,8 @@
 360doc.cn##.like_content
 360doc.cn##.youlike
 alicdn.com/g/mm/afp-cdn/js/
-b5qpg.cn
 api.share.baidu.com
+b5qpg.cn
 baidu-union-js.chuimg.com
 baidu.com###afd_content
 baidu.com###gh-safariicon-container
@@ -180,7 +180,6 @@ btdc8.cn
 cbjs.baidu.com
 cpu.baidu.com/js/cic.js
 crs.baidu.com
-zhanzahng.baidu.com
 dup.baidustatic.com
 eduad.baidu.com
 fanyi-app.baidu.com
@@ -196,7 +195,6 @@ ifengimg.com/a/o.js
 ip.cn##[class^="footer"]
 jd.c-ptsp.com.cn
 jdgsgl.com
-mbaik.com
 m.ithome.com##.hot-app
 m.ithome.com##.lapin
 m.ithome.com##.open-app
@@ -224,15 +222,16 @@ m.zol.com.cn##.gmine_ad
 m.zol.com.cn##.pic-showcase
 m.zol.com.cn##.sign
 m.zol.com.cn##li[data-id="111147"]
+mbaik.com
 n.sinaimg.cn/default/b953131b/20170614/blog.png
 nex.163.com
 p1.ifengimg.com/a80c2beeeff78280/2017/28/luckybag
 qq.com/nodeapi/api/ads
 res.wex.qq.com/open/js
-s.ip-cdn.com/css/main.css
-s.ip-cdn.com/img/ds.png
-s.ip-cdn.com/img/al.jpg
 s.go.sohu.com*/?callback=
+s.ip-cdn.com/css/main.css
+s.ip-cdn.com/img/al.jpg
+s.ip-cdn.com/img/ds.png
 sina.cn##[href^="http://saxs."] > .f_card
 sina.cn##article.article.article-sax
 sina.cn##div.specSlide2Wrap
@@ -268,6 +267,7 @@ wapbaike.baidu.com##.BK-after-content-wrapper > ul
 wapbaike.baidu.com##[target="_blank"]
 wk.baidu.com##.bottom-bar-global
 wk.baidu.com##a.sf-edu-wenku-id-right-fixed-ad-wrap
+zhanzahng.baidu.com
 zhidao.baidu.com###main-content > div[class^="cvk"]
 zhidao.baidu.com###p-relate-question + .mm-content-box
 zhidao.baidu.com##.bottom-banner
@@ -282,7 +282,6 @@ zhihu.com##.RelatedReadings-adItem
 zhihu.com##button.OpenInAppButton
 zhihu.com##div[data-za-detail-view-path-is_ad]
 !--------------------------------------------!
-wbies.com
 wutuxs.com/com.js
 wutuxs.com/favicon.ico
 wutuxs.com/wap/js/*.js
@@ -290,7 +289,5 @@ wutuxs.com##[class^="footer"]
 wutuxs.com##.dkeouxifb.dkeouxifa
 wutuxs.com##.dddkosifb.dddkosifa
 js.users.51.la
-pcaoo.com
-vgaom.com
 !--------------------------------------------!
 @@||apps.bdimg.com$script
