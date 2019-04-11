@@ -292,5 +292,6 @@ js.users.51.la
 resources.infolinks.com/js
 googletagmanager.com
 platform.bidgear.com
+run-syndicate.com
 !--------------------------------------------!
 @@||apps.bdimg.com$script
