@@ -291,5 +291,6 @@ wutuxs.com##.dddkosifb.dddkosifa
 js.users.51.la
 resources.infolinks.com/js
 googletagmanager.com
+platform.bidgear.com
 !--------------------------------------------!
 @@||apps.bdimg.com$script
