@@ -293,6 +293,7 @@ resources.infolinks.com/js
 googletagmanager.com
 platform.bidgear.com
 run-syndicate.com
-www.google-analytics.com/
+google-analytics.com
+hdjxmf.com
 !--------------------------------------------!
 @@||apps.bdimg.com$script
