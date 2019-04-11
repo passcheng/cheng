@@ -289,5 +289,6 @@ wutuxs.com##[class^="footer"]
 wutuxs.com##.dkeouxifb.dkeouxifa
 wutuxs.com##.dddkosifb.dddkosifa
 js.users.51.la
+http://resources.infolinks.com/js
 !--------------------------------------------!
 @@||apps.bdimg.com$script
