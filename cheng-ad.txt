@@ -293,6 +293,6 @@ resources.infolinks.com/js
 googletagmanager.com
 platform.bidgear.com
 run-syndicate.com
-51kdy.org/template/vfed/asset/js
+www.google-analytics.com/
 !--------------------------------------------!
 @@||apps.bdimg.com$script
