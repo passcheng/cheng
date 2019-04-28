@@ -298,5 +298,6 @@ hdjxmf.com
 tianji520.cn
 51kdy.org/*.jpg
 51kdy.org/*.gif
+51kdy.org##.fed-goto-share.fed-visible.fed-text-center.fed-back-whits.fed-icon-font.fed-icon-fenxiang
 !--------------------------------------------!
 @@||apps.bdimg.com$script
