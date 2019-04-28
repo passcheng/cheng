@@ -295,5 +295,8 @@ platform.bidgear.com
 run-syndicate.com
 google-analytics.com
 hdjxmf.com
+tianji520.cn
+51kdy.org/*.jpg
+51kdy.org/*.gif
 !--------------------------------------------!
 @@||apps.bdimg.com$script
