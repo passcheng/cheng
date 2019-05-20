@@ -300,5 +300,7 @@ tianji520.cn
 51kdy.org/*.gif
 51kdy.org##.fed-goto-share.fed-visible.fed-text-center.fed-back-whits.fed-icon-font.fed-icon-fenxiang
 tttmedd.com
+hcmtu03.com
+chinalankeji.com
 !--------------------------------------------!
 @@||apps.bdimg.com$script
