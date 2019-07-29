@@ -1,8 +1,6 @@
 #Apple
-DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
-DOMAIN-SUFFIX,aaplimg.com,DIRECT
+// DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
 DOMAIN-SUFFIX,apple-mapkit.com,DIRECT
-DOMAIN-SUFFIX,apple.co,DIRECT
 DOMAIN-SUFFIX,apple.com,DIRECT
 DOMAIN-SUFFIX,digicert.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
@@ -10,7 +8,6 @@ DOMAIN-SUFFIX,icloud.com,DIRECT
 DOMAIN-SUFFIX,itunes.com,DIRECT
 DOMAIN-SUFFIX,local,DIRECT
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
-DOMAIN-SUFFIX,me.com,DIRECT
 DOMAIN-SUFFIX,surge-activation.com,DIRECT
 DOMAIN-SUFFIX,symcb.com,DIRECT
 DOMAIN-SUFFIX,symcd.com,DIRECT
@@ -164,6 +161,7 @@ DOMAIN-SUFFIX,ais19.com,Proxy
 DOMAIN-SUFFIX,crashlytics.com,Proxy
 DOMAIN-SUFFIX,dler.cloud,DIRECT
 DOMAIN-SUFFIX,fast.com,Proxy
+DOMAIN-SUFFIX,fbcdn.net,Proxy
 DOMAIN-SUFFIX,ggpht.com,Proxy
 DOMAIN-SUFFIX,git.io,Proxy
 DOMAIN-SUFFIX,goo.gl,Proxy
@@ -214,7 +212,7 @@ IP-CIDR,121.51.0.0/16,DIRECT,no-resolve
 IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,17.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
-IP-CIDR,183.0.0.0/15,DIRECT,no-resolve
+IP-CIDR,183.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
 IP-CIDR,224.0.0.0/8,DIRECT,no-resolve
 #Telegram
@@ -230,6 +228,7 @@ IP-CIDR,149.154.164.0/22,Proxy,no-resolve
 IP-CIDR,149.154.168.0/22,Proxy,no-resolve
 IP-CIDR,149.154.172.0/22,Proxy,no-resolve
 IP-CIDR,205.172.60.0/22,Proxy,no-resolve
+IP-CIDR,239.255.255.0/24,Proxy,no-resolve
 #GeoIP CN
 GEOIP,CN,DIRECT
 FINAL,Proxy
@@ -239,4 +238,4 @@ FINAL,Proxy
 ^https://youtubei.googleapis.com/.+ad_break - reject
 
 [SSID Setting]
-"ke588_5G/" suspend=true
+"Apple" suspend=true
