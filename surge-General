@@ -1,0 +1,16 @@
+[General]
+loglevel = warning
+skip-proxy = 127.0.0.1, 10.0.0.0/8, 100.64.0.0/10, 172.16.0.0/12, 192.18.0.0/16, 192.168.0.0/16, 224.0.0.0/8, localhost, *.local
+dns-server = 119.29.29.29, 223.5.5.5, system
+allow-wifi-access = false
+exclude-simple-hostnames = true
+ipv6 = true
+internet-test-url = http://captive.apple.com/
+proxy-test-url = http://captive.apple.com/
+test-timeout = 3
+
+[Replica]
+hide-apple-request = false
+hide-crashlytics-request = true
+hide-udp = false
+use-keyword-filter = false
