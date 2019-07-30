@@ -1,6 +1,6 @@
 [General]
 loglevel = warning
-skip-proxy = 127.0.0.1, 10.0.0.0/8, 100.64.0.0/10, 172.16.0.0/12, 198.18.0.0/16, 192.168.0.0/16, 224.0.0.0/8, localhost, *.local
+skip-proxy = 127.0.0.1, 10.0.0.0/8, 100.64.0.0/10, 172.16.0.0/12, 192.168.0.0/16, 198.18.0.0/16, 224.0.0.0/8, localhost, *.local
 dns-server = 119.29.29.29, 223.6.6.6, system
 allow-wifi-access = false
 exclude-simple-hostnames = true
@@ -234,8 +234,8 @@ IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,17.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
 IP-CIDR,183.0.0.0/8,DIRECT,no-resolve
-IP-CIDR,198.18.0.0/16,DIRECT,no-resolve
 IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+IP-CIDR,198.18.0.0/16,DIRECT,no-resolve
 IP-CIDR,224.0.0.0/8,DIRECT,no-resolve
 #Telegram
 IP-CIDR,67.198.55.0/24,Proxy,no-resolve
