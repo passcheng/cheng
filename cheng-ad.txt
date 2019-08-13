@@ -284,10 +284,12 @@ zhihu.com##div[data-za-detail-view-path-is_ad]
 !--------------------------------------------!
 wutuxs.com/com.js
 wutuxs.com/favicon.ico
-wutuxs.com/wap/js/*.js
+wutuxs.com/wap/js/
 wutuxs.com##[class^="footer"]
 wutuxs.com##.dkeouxifb.dkeouxifa
 wutuxs.com##.dddkosifb.dddkosifa
+w2xj4.cn
+sjz888.cn
 js.users.51.la
 resources.infolinks.com/js
 googletagmanager.com
