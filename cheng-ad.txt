@@ -286,7 +286,7 @@ wutuxs.com/com.js
 wutuxs.com/favicon.ico
 wutuxs.com/wap/js/
 wutuxs.com##[class^="footer"]
-wutuxs.com/html/##IMG
+wutuxs.com##IMG
 2ndgwa.cn
 w2xj4.cn
 sjz888.cn
