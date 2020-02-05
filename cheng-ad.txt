@@ -282,7 +282,6 @@ zhihu.com##.RelatedReadings-adItem
 zhihu.com##button.OpenInAppButton
 zhihu.com##div[data-za-detail-view-path-is_ad
 wutuxs.com/com.js
-wutuxs.com/favicon.ico
 wutuxs.com/wap/js/
 !--------------------------------------------!
 @@||apps.bdimg.com$script
