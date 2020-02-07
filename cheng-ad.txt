@@ -277,11 +277,11 @@ zhidao.baidu.com##.quality-elinks
 zhidao.baidu.com##.w-question-list[data-sign]
 zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com,muzhi.baidu.com##div[class*="5a"]
-zhihu.com##.Lottie.Kok.Kok-mobile
+zhihu.com##.Lrottie.Kok.Kok-mobile
 zhihu.com##.RelatedReadings-adItem
 zhihu.com##button.OpenInAppButton
 zhihu.com##div[data-za-detail-view-path-is_ad
 wutuxs.com/com.js
-wutuxs.com/wap/js/
+wutuxs.com/wap/js/-
 !--------------------------------------------!
 @@||apps.bdimg.com$script
