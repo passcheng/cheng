@@ -7,13 +7,13 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 secret: ""
-Proxy: []
-Proxy Group:
+proxies: []
+proxy-groups:
   - name: Proxy
     type: select
     proxies:
       - policy-path=$$
-Rule:
+rules:
   - DOMAIN-SUFFIX,apple-mapkit.com,DIRECT
   - DOMAIN-SUFFIX,apple.com,DIRECT
   - DOMAIN-SUFFIX,digicert.com,DIRECT
